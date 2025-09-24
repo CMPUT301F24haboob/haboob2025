@@ -5,7 +5,7 @@
 | ------------ | --------- | -------------- |
 | `Jamie Quek` | `jquek`   | `jamie_branch` |
 | `David Tyrrell` | `dtyrrell`  | `davids_branch`|
-| `<Add more>` | `<CCID>`  | `<branch-name>`|
+| `Daniel Dean` | `dcdean`  | `dan`|
 | `<Add more>` | `<CCID>`  | `<branch-name>`|
 | `<Add more>` | `<CCID>`  | `<branch-name>`|
 | `<Add more>` | `<CCID>`  | `<branch-name>`|
