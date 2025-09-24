@@ -7,5 +7,5 @@
 | `David Tyrrell` | `dtyrrell`  | `davids_branch`|
 | `Daniel Dean` | `dcdean`  | `dan`|
 | `Owen Genge` | `ogenge`  | `owens_branch`|
-| `<Add more>` | `<CCID>`  | `<branch-name>`|
+| `Spencer Lukey` | `slukey`  | `spencer`|
 | `<Add more>` | `<CCID>`  | `<branch-name>`|
