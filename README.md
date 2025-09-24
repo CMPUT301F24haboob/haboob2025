@@ -6,6 +6,6 @@
 | `Jamie Quek` | `jquek`   | `jamie_branch` |
 | `David Tyrrell` | `dtyrrell`  | `davids_branch`|
 | `Daniel Dean` | `dcdean`  | `dan`|
-| `<Add more>` | `<CCID>`  | `<branch-name>`|
+| `Spencer Lukey` | `slukey`  | `spencer`|
 | `<Add more>` | `<CCID>`  | `<branch-name>`|
 | `<Add more>` | `<CCID>`  | `<branch-name>`|
