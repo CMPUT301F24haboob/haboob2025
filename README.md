@@ -4,7 +4,7 @@
 | Student Name | CCID      | Branch Name    |
 | ------------ | --------- | -------------- |
 | `Jamie Quek` | `jquek`   | `jamie_branch` |
-| `<Add more>` | `<CCID>`  | `<branch-name>`|
+| `David Tyrrell` | `dtyrrell`  | `davids_branch`|
 | `<Add more>` | `<CCID>`  | `<branch-name>`|
 | `<Add more>` | `<CCID>`  | `<branch-name>`|
 | `<Add more>` | `<CCID>`  | `<branch-name>`|
