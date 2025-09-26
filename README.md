@@ -8,4 +8,4 @@
 | `Daniel Dean` | `dcdean`  | `dan`|
 | `Owen Genge` | `ogenge`  | `owens_branch`|
 | `Spencer Lukey` | `slukey`  | `spencer`|
-| `<Add more>` | `<CCID>`  | `<branch-name>`|
+| `Jeff Madro` | `jkmadro`  | `jeff`|
